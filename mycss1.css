@@ -1,0 +1,27 @@
+   <style>body {
+       background-color: #e6ffff;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 12px;
+       text-align: justify;
+   }
+   
+   #publish {
+       font-weight: bold;
+       font-size: 10px;
+   }
+   
+   .judulgambar {
+       text-align: center;
+       font-size: 10px;
+   }
+   
+   .judulberita {
+       text-align: center;
+       color: rgb(255, 247, 0);
+       font-size: medium;
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   
+   .framegambar {}
+   
+   </style>
